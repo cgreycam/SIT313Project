@@ -1,0 +1,2 @@
+c:\users\wooda\documents\visual studio 2015\Projects\App1\App1\App1.WinPhone\App1.WinPhone.csproj;neutral
+c:\users\wooda\documents\visual studio 2015\Projects\App1\App1\App1\App1.csproj;neutral
