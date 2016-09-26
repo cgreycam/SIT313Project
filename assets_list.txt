@@ -1,0 +1,34 @@
+Buttons: ------------
+New Game
+Trick lists
+How To Play
+About
+
+Trick List: (tabs) -----------
+- Easy Tricks
+- Medium Tricks
+- Hard Tricks
+(easy/med/hard backgrounds):
+easy: https://commons.wikimedia.org/wiki/File:Skatepark_Suwa%C5%82ki_by_Adrian_Piekarski_2011_%283%29.JPG
+med: http://www.publicdomainpictures.net/view-image.php?image=21515&
+hard: https://www.pexels.com/photo/people-men-sport-young-2641/
+
+BIKE (white & filled in red) --------------
+
+Text ------------------
+You Landed the trick!
+You messed up!
+
+Headings: --------------
+Game of Bike
+How To Play
+About
+
+
+Main bg refs
+- https://commons.wikimedia.org/wiki/File:Bolton_Park_Skate_Park.jpg
+- https://commons.wikimedia.org/wiki/File:OIC_carine_skate_park_2.jpg
+- https://commons.wikimedia.org/wiki/File:Yallourn_North_Skate_Park.jpg
+
+white noise: http://n4pgamer.deviantart.com/art/TV-Noise-Static-Snow-274741821
+paint splot: http://vordarain.deviantart.com/art/Paint-splat-4-349607158
